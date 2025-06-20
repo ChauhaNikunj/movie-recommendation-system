@@ -1,7 +1,6 @@
-numpy
-pandas
-skicit-learn
-gdown
-streamlit
-requests
-pickle
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+gdown==5.1.0
+streamlit==1.35.0
+requests==2.31.0
