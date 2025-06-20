@@ -4,3 +4,4 @@ skicit-learn
 gdown
 streamlit
 requests
+pickle
